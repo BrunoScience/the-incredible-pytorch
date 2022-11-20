@@ -1,4 +1,6 @@
-This is a *bruno.science* curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/). Feel free to make a pull request to contribute to this list.
+This is a *bruno.science* curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/). 
+
+The original is better -- this is only an annotated list.
 
 
 # Table Of Contents
