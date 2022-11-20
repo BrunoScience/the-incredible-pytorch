@@ -1,13 +1,4 @@
-<p align="center"><img width="40%" src="the_incredible_pytorch.png" /></p>
-
---------------------------------------------------------------------------------
-<p align="center">
-	<img src="https://img.shields.io/badge/stars-9000+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-1800+-blue.svg"/>
-	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
-</p>
-
-This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/). Feel free to make a pull request to contribute to this list.
+This is a *bruno.science* curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/). Feel free to make a pull request to contribute to this list.
 
 
 # Table Of Contents
