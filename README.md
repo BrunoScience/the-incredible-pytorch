@@ -1,6 +1,6 @@
 This is a *bruno.science* curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible [PyTorch](http://pytorch.org/). 
 
-The original is better -- this is only an annotated copy of the original.
+The original https://github.com/ritchieng/the-incredible-pytorch is better -- this is only an annotated copy of that original.
 
 
 # Table Of Contents
